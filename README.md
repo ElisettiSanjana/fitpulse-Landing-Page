@@ -1,3 +1,5 @@
+<img width="911" height="1280" alt="HTML handwritten notes1" src="https://github.com/user-attachments/assets/f0f4ff75-b545-4ecc-bd47-be72e78dafea" />
+
 # FitPulse - Smart Fitness Watch Landing Page
 
 ## 📌 Overview
