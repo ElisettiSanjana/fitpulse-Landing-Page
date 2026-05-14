@@ -35,10 +35,10 @@ https://elisettisanjana.github.io/fitpulse-Landing-Page
 - Hover states & transitions
 
 ## 🎥 Walkthrough Video
-[Click here to watch](PASTE_YOUR_LOOM_LINK_HERE)
+[Click here to watch](https://www.loom.com/share/aaf9a57cafc64b249bba76be887131f5)
 
 ## 📝 Handwritten Notes
-Planning and explanation notes are included in the `/notes` folder.
+Planning and explanation notes are included in the README.
 
 ## 🚀 How to Run
 Open `index.html` in any browser.
